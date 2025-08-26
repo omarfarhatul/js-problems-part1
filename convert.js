@@ -3,5 +3,9 @@ function inchTofeet(inch){
     const feet = inch/12;
     return feet;
 }
-const shuvoHeight = inchTofeet(75);
-console.log(shuvoHeight);
+function inchTofeet2(inch){
+    const feetFrection = inch/12;
+    const feetNumber = perseInt(feetFrection);
+}
+const shuoHeight = inchTofeet(75);
+const shuoHeight2 = inchTofeet2(75);
