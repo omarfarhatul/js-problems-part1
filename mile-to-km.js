@@ -13,4 +13,3 @@ function kmTomile(kilo){
 }
 const mile = kmTomile(2);
 console.log(mile);
-f
