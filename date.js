@@ -5,4 +5,5 @@ console.log(date.getDay());
 const specificDate = new Date(2091, 0, 26);
 console.log(specificDate);
 specificDate.setMonth(10);
+console.log(specificDate.toLocaleDateString());
 console.log(specificDate.toLocaleDateString('en-GB'));
