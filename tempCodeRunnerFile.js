@@ -1,1 +1,1 @@
-const avg=oddAverage(number);
+biryanikhor
